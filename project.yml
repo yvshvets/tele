@@ -1,0 +1,6 @@
+
+packages:
+  - name: tele
+    actions:
+      - name: tele
+        runtime: 'python:default'
