@@ -4,3 +4,8 @@ packages:
     actions:
       - name: tele
         runtime: 'python:default'
+
+  - name: tele
+    actions:
+      - name: rest
+        runtime: 'python:default'
